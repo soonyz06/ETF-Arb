@@ -1,2 +1,2 @@
-# ETF-Arb
+# ETF-Arb (LPP)
 ![](Simplex.png)
